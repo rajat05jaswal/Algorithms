@@ -1,0 +1,9 @@
+Relationship
+d=k*l*sqrt(n)
+
+where
+d: distance,
+k: approx 0.87,
+l: length of a step,
+n: number of steps
+
